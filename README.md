@@ -1,4 +1,6 @@
-# 🏺 CodeClayTools
+![CodeClay](img/CodeClayTools.png "CodeClay")
+
+# CodeClayTools
 
 **CodeClayTools** is a collection of handcrafted, open-source tools built for developers, tinkerers, sysadmins, and curious minds. This organization serves as the home for small but focused projects—each with a clear purpose, zero bloat, and maximum clarity.
 
